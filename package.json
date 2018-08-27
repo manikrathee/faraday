@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@lourd/react-google-sheet": "^0.4.0",
+    "antd": "^3.8.3",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
-    "react-scripts": "1.1.5"
+    "react-scripts": "1.1.5",
+    "react-trend": "^1.2.4"
   },
   "scripts": {
     "start": "react-scripts start",
